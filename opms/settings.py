@@ -79,10 +79,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'aws_project',
-        'USER': 'admin',
-        'PASSWORD': 'balu1234',
-        'HOST': 'database1.c6cpyzosbsmh.us-east-1.rds.amazonaws.com',
-        'PORT': '3306',
+
 
     }
 }
